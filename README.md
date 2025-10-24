@@ -69,6 +69,11 @@ Every location has a full hands on team with -almost- full independence:
 - You can [see the projects they have built during the program here](https://4geeksacademy.com/us/students-and-projects).
 
 ## Running this project
+### Estoy tratando de editar con Markdown
+
+Estoy añadiendo un texto en **negrita** y uno en _"italic"_
+
+`console.log("Esto es un log)`
 
 There are two ways you can run the website, pick one:
 
@@ -77,8 +82,3 @@ A) If you have python:
 ```py
 $ npm run build
 
-### Estoy tratando de editar con Markdown
-
-Estoy añadiendo un texto en **negrita** y uno en _"italic"_
-
-`console.log("Esto es un log)`
